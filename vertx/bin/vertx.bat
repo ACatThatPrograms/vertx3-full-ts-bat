@@ -22,10 +22,10 @@ set JMX_OPTS=
 @rem To enable JMX uncomment the following
 @rem set JMX_OPTS=-Dcom.sun.management.jmxremote -Dhazelcast.jmx=true -Dvertx.metrics.options.jmxEnabled=true
 
-set DIRNAME=%~dp0
+set DIRNAME=%~dp0../vertx3-full/vertx
 if "%DIRNAME%" == "" set DIRNAME=.
 set APP_BASE_NAME=%~n0
-set VERTX_HOME=%DIRNAME%..
+set VERTX_HOME=%DIRNAME%
 
 @rem Find java.exe
 if defined JAVA_HOME goto findJavaFromJavaHome

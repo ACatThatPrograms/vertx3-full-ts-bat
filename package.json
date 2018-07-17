@@ -1,12 +1,12 @@
 {
   "name": "vertx3-full",
-  "author": "The Vert.x Team",
-  "version": "3.5.3",
+  "author": "ACatThatPrograms",
+  "version": "1.0.0",
   "description": "Vert.x: A tool-kit for building reactive applications on the JVM.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/vert-x3/vertx-stack.git"
+    "url": "git://github.com/ACatThatPrograms/vertx3-full-ts-bat.git"
   },
   "keywords": [
     "vert.x",

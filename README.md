@@ -1,6 +1,6 @@
 # Vertx Bat File Fix
 
-This module contains bat file fixes for npm deployment a swlel as typescript libs from Michael Kraemer
+This module contains bat file fixes for npm deployment as well as typescript libs from Michael Kraemer
 This is mainly here for my ease of use and to prevent npm from over writing my needed bat changes.
 
 # Vert.x 3 Full stack
